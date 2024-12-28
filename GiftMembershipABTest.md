@@ -46,10 +46,9 @@ Test the impact on conversion rates by adding **social proof messaging** and **u
 - Gift membership purchase conversion rate.
 
 ### Secondary:
-- Engagement with social proof messaging (e.g., % of users interacting with the "Most gifted plan!" badge).
-- Engagement with user benefit messaging (e.g., % of users interacting with the tooltip).
-- Exit rate per step in the funnel.
 - Funnel drop-off rate per step (e.g., how many users abandon after selecting a gift plan vs. recipient selection).
+- ARPU / Avg. ticket size of purchase
+- % users opting for "Premium" Membership gift
 
 ### Success Criteria:
 - A measurable lift in conversion rate for Variation A compared to the Control.
